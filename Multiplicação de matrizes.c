@@ -1,5 +1,4 @@
 /* 
- * Nome: Maria Carolina Resende Jaudacy  Matrícula: 667477
  * Tempo sequencial registrado para width = 2000
  *   1m28.538s (real)
  *   1m28.219s (user)
